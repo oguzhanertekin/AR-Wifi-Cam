@@ -62,6 +62,7 @@ AR destekleyen cihazların listesine aşağıdaki linkten ulaşılabilir.
 Uygulama bu cihazlarda sorunsuz bir şekilde çalışmıştır.
 * Samsung Galaxy A50 (SM-A505F)
 * Samsung Galaxy A71 (SM-A715F)
+
 (Android 11 ve üstü sürümler önerilmektedir.)
 
 ## Geliştiriciler 
