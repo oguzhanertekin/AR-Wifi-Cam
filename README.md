@@ -25,10 +25,10 @@ The application is developed on Unity, a game development platform._**[Unity 202
 
 
 AR Foundation allows you to work with augmented reality platforms in a multiplatform way within **Unity**. This package provides an interface for Unity developers to use, but does not implement any AR features. To use AR Foundation on a target device, you also need separate packages for target platforms officially supported by Unity:
-    * [ARCore XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.arcore@4.1/manual/index.html) on Android
-    * [ARKit XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.arkit@4.1/manual/index.html) on iOS
-    * [Magic Leap XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.magicleap@6.0/manual/index.html) on Magic Leap
-    * [Windows XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.windowsmr@4.0/manual/index.html) on HoloLens
+* [ARCore XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.arcore@4.1/manual/index.html) on Android
+* [ARKit XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.arkit@4.1/manual/index.html) on iOS
+* [Magic Leap XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.magicleap@6.0/manual/index.html) on Magic Leap
+* [Windows XR Plugin](https://docs.unity3d.com/Packages/com.unity.xr.windowsmr@4.0/manual/index.html) on HoloLens
     
 
 
