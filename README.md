@@ -2,6 +2,8 @@
 
 ![logo](https://user-images.githubusercontent.com/68961575/183023181-95774d0c-1382-4119-9fff-cfc5191e6c3c.png)
 
+_Document written in Turkish for Turkish developers:_[Document TR](https://github.com/oguzhanertekin/AR-Wifi-Cam/files/9394810/install.pdf)
+
 ## Application Description
 
 Using **Augmented Reality (AR)** technology, the application detects the shooting power and download speed of the internet to which the phone is connected, and shows this on an object that we add to the real world via the camera via AR technology. Thanks to the ability to add more than one object, it can be determined where and how much the signal strength of the wifi is in the environment where the application is used.
