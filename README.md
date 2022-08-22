@@ -1,4 +1,4 @@
-# ARwifi-Unity
+# AR Wifi Cam
 
 ![logo](https://user-images.githubusercontent.com/68961575/183023181-95774d0c-1382-4119-9fff-cfc5191e6c3c.png)
 
