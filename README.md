@@ -2,7 +2,7 @@
 
 ![logo](https://user-images.githubusercontent.com/68961575/183023181-95774d0c-1382-4119-9fff-cfc5191e6c3c.png)
 
-_Document written in Turkish for Turkish developers:_[Document TR](https://github.com/oguzhanertekin/AR-Wifi-Cam/files/9394810/install.pdf)
+_Document written in Turkish for Turkish developers: _[Document TR](https://github.com/oguzhanertekin/AR-Wifi-Cam/blob/main/README%20-TR.md)
 
 ## Application Description
 
